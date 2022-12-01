@@ -24,5 +24,3 @@ var open = document.createElement('button');
 open.innerHTML = 'Open';
 open.id = 'cookedJSOpen';
 document.body.appendChild(open);
-
-var 
