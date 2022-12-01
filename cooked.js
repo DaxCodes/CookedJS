@@ -4,7 +4,7 @@ styling.textContent = `
   #cookedJSOpen{
       bottom: 0;
       left: 0;
-      position: absolute;
+      position: fixed;
       background: grey;
       padding: 5px;
       font-family: 'Montserrat', sans-serif;
