@@ -1,2 +1,3 @@
 # CookedJS
-CookedJS is a javascript file that allows you to get a cheat menu for the popular game cookie clicker.
+## basically cookedJS is a javascript file that allows you to cheat in the game cookie clicker.
+its work in progress sorry
